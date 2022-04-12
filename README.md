@@ -3,7 +3,9 @@
 ## About the Project
 
 Wordpress server creation on DigitalOcean using devops tools and techniques.
-Anyone is free to use any part of the code.
+
+This is my project while trying to move into devops techniques coming from a sysadmin background.
+I will keep adding to the Roadmap below as I go along.
 
 ## Roadmap
 
